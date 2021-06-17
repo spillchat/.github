@@ -1,6 +1,6 @@
 ## Overview
 
-Fixes #<!-- issue-number -->
+[Issue](<!-- link to issue in notion -->)
 
 <!-- High level overview of changes made and why you are making them. -->
 
